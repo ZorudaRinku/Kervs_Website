@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Developer/Designer: Aidan Kennedy
+    Contact: aidankennedypersonal [at] gmail.com
+    Twitch: twitch.tv/ZorudaRinku
+    From:Colorado, United States
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    ionos.com
